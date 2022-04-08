@@ -1,0 +1,20 @@
+https://www.youtube.com/watch?v=b6vjbOk48_8
+
+mongoose Dicumentation
+https://mongoosejs.com/docs/api.html
+
+mongodb download
+
+mongodb docs
+mongodb drivers
+
+Collection === Table
+Fields === Column
+Document === Row
+
+in cmd
+mongo
+show dbs
+use MyStore
+db.customer({"name":"ali" , "type":"human"}
+
